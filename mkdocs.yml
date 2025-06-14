@@ -1,0 +1,22 @@
+site_name: My Recipes
+theme:
+  name: material
+  palette:
+    scheme: default
+    primary: custom
+    accent: amber
+  font:
+    text: Merriweather
+    code: Fira Code
+
+extra_css:
+  - stylesheets/extra.css
+
+nav:
+  - Home: index.md
+  - Dinner:
+      - Chicken Burgers: dinner/chicken-burgers.md
+  - Pasta:
+      - Mackerel Pasta: pasta/mackerel-pasta.md
+  - Batch:
+      - Beef and Barley Stew: batch/beef-and-barley-stew.md
