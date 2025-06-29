@@ -10,6 +10,7 @@
 ## Pasta
 - [Mackerel Pasta](pasta/mackerel-pasta.md)
 - [Herby Pasta](pasta/herby-pasta.md)
+- [Spinach and Ricotta Pasta](pasta/herby-pasta.md)
 
 ## Batch
 - [Beef and Barley Stew](batch/beef-and-barley-stew.md)
