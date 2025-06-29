@@ -5,7 +5,7 @@
 - Jacket Potatoes
 - [Coconut braised tofu with green beans](dinner/coconut-braised-tofu.md)
 - [Japanese Turkey Meatball curry](dinner/turkey-meatball-curry.md)
-- Chicken Brown Rice thing
+- [One pot chicken and rice with lemon and olives](dinner/chicken-olive-and-lemon.md)
 
 ## Pasta
 - [Mackerel Pasta](pasta/mackerel-pasta.md)
