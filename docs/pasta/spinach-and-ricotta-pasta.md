@@ -10,20 +10,6 @@
 - 25g parmesan cheese
 - pasta for 2
 
-
-- 1 onion, diced
-- Fine sea salt and black pepper
-- 2 garlic cloves, peeled and finely minced
-- ½ fresh red chilli, sliced into thin rings
-- 20g pine nuts
-- 25g raisins
-- 3 tsp za’atar
-- 1 lime — zest finely grated, then ½ juiced
-- 20g parsley, roughly chopped
-- 180g dried linguine
-- 20g rocket leaves
-- 2 tbsp olive oil
-
 ---
 
 ## Instructions
